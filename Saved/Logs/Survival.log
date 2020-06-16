@@ -12972,3 +12972,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.16-18.10.11:747][120]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.16-18.10.11:747][120]LogContentValidation: Display: Validating World /Game/map1.map1
 [2020.06.16-18.10.11:747][120]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map1_BuiltData.map1_BuiltData
+[2020.06.16-18.20.11:290][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.06.16-18.20.11:293][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map1' took 0.032
+[2020.06.16-18.22.19:014][493]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
